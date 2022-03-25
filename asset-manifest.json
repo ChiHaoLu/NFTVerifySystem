@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NFTVerifySystem/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/NFTVerifySystem/static/js/main.617d85f4.chunk.js",
+    "main.js.map": "/NFTVerifySystem/static/js/main.617d85f4.chunk.js.map",
+    "runtime-main.js": "/NFTVerifySystem/static/js/runtime-main.ba28bdae.js",
+    "runtime-main.js.map": "/NFTVerifySystem/static/js/runtime-main.ba28bdae.js.map",
+    "static/js/2.2a21844f.chunk.js": "/NFTVerifySystem/static/js/2.2a21844f.chunk.js",
+    "static/js/2.2a21844f.chunk.js.map": "/NFTVerifySystem/static/js/2.2a21844f.chunk.js.map",
+    "static/js/3.5d2b2c65.chunk.js": "/NFTVerifySystem/static/js/3.5d2b2c65.chunk.js",
+    "static/js/3.5d2b2c65.chunk.js.map": "/NFTVerifySystem/static/js/3.5d2b2c65.chunk.js.map",
+    "index.html": "/NFTVerifySystem/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/NFTVerifySystem/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.2a21844f.chunk.js.LICENSE.txt": "/NFTVerifySystem/static/js/2.2a21844f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba28bdae.js",
+    "static/js/2.2a21844f.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.617d85f4.chunk.js"
+  ]
+}
